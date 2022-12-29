@@ -1,5 +1,5 @@
 # ! / bin /bash
-set -x
+
 echo " Enter 3 numbers "
 read num1 num2 num3
 if [ $num1 -gt $num2 ] && [ $num1 -gt $num3 ]
